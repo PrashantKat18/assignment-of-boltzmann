@@ -13,3 +13,5 @@ Build a communication system among all 5 components such that the text in the in
 displayed in all other components like so....
   
   
+<img src="https://user-images.githubusercontent.com/46772783/150667510-622ec3a1-fd68-4026-a704-9b19bfa72084.jpg"><br>
+<img src="https://user-images.githubusercontent.com/46772783/150667512-4e021b9a-beaf-4e7b-ad1b-ad41b823f630.jpg">
