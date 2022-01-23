@@ -10,7 +10,7 @@ at that entered index. <br>
     corners of the screen like so... </div>
  Now make a 5th component in the center of the screen having an input field inside its HTML.
 Build a communication system among all 5 components such that the text in the input box is
-displayed in all other components like so....
+displayed in all other components like so....<br>
   <img src="https://user-images.githubusercontent.com/46772783/150668368-12691491-4d4a-4dd4-ace1-9499c8f77320.png">
  <img src="https://user-images.githubusercontent.com/46772783/150667512-4e021b9a-beaf-4e7b-ad1b-ad41b823f630.jpg"> 
 <img src="https://user-images.githubusercontent.com/46772783/150667510-622ec3a1-fd68-4026-a704-9b19bfa72084.jpg"><br>
